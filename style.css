@@ -2,3 +2,28 @@
 #punainen-kohta {color: red;}
 .ruskea-kohta {color:brown;}
 .pinkki-kohta {color:pink;}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  position: static
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  left: 250px;
+  position: relative;
+  bottom:110px  
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: relative;
+  left: 500px;
+  bottom: 220px;
+}
